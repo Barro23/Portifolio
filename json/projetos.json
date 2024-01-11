@@ -1,0 +1,24 @@
+[
+    {
+        "nome":"SECITEC",
+        "descricao":"O site da SECITEC IFG Formosa 2023 foi meticulosamente elaborado por alunos do TADS IFG Campus Formosa para o eveto anual de Ciência e Tecnologia do campus, O projeto se resume em um site feito em conjunto com colegas.",
+        "imagem":"https://www.ifg.edu.br/attachments/article/36095/WhatsApp%20Image%202023-09-20%20at%2017.33.07.jpeg",
+        "repositorio":"https://secitecformosa.online/"
+    },
+    {
+        "nome":"Clone da Amazon",
+        "descricao":"Clone da Amazon feito como trabalho de programação para web II.",
+        "imagem":"https://raw.githubusercontent.com/carlosneto726/amazon-clone/main/img/screenshot.png",
+        "repositorio":"https://github.com/carlosneto726/amazon-clone"
+    },
+    {
+        "nome":"Site CPIFG",
+        "descricao":"Site feito para um trabalho de programação web I com a ideia de divulgar o evento da Convenção POP IFG.",
+        "imagem":"https://raw.githubusercontent.com/carlosneto726/CPIFG/main/img/repository-open-template.png",
+        "repositorio":"https://github.com/carlosneto726/CPIFG"
+    }
+
+
+]
+
+

@@ -1,0 +1,15 @@
+#perfil-img{
+    object-fit: fill;
+    background-color: white;  
+    width: 140px; 
+    height: 140px; 
+    border-radius: 50%; 
+    border: solid 4px white; 
+    position: relative;
+    margin-top: -100px;
+}
+
+#perfil-banner{
+    object-fit: cover; 
+    height: 250px;
+}
